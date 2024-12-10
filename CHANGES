@@ -1,0 +1,29 @@
+CHANGES for gvs_gui
+
+v1.8 (12/21/1999)
+--------------
+1. Uses configure.
+
+v1.7 (1/9/1998)
+--------------
+1. Bug fix for ~/.gvs.  Recognizes >= 1.5 files.
+
+v1.6 (12/17/97)
+--------------
+1. Face lift.
+2. Added level 2 and level 3 processing.
+
+v1.5 (11/14/97)
+--------
+1. Added 'Log File' menu item that allows viewing of the log file.
+2. Upgraded to use xforms v0.86 (No longer compatible with xforms v0.81).
+
+
+v1.4 (6/30/97)
+1. Fixed minor initialize problem with alltape options.
+
+
+v1.3 (TBD)
+------------
+1. Fixed bug.
+2. Changed Makefile to more robust for gvbox.
